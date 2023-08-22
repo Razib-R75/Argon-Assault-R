@@ -25,13 +25,13 @@ To play the game, you can either download the project and build it in Unity or a
 ### Prerequisites
 
 - Unity (2022.3.5f1 )
-- ...
+- C# programming language.
 
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/Razib-R75/Argon-Assault-R.git`
 2. Open the project in Unity.
-3. ...
+
 
 ## Usage
 
